@@ -8,7 +8,7 @@ RELATIVE_GITS_PATH="code/gits.py"
 
 GITS_EXEC_PATH="${PROJECT_DIR}/${RELATIVE_GITS_PATH}"
 
-BASHRC=~/.bashrc
+BASHRC=/root/.bashrc
 if [ -f "$BASHRC" ]; then
     echo "$BASHRC exists, appending gits commandline tool alias"
     echo "alias gits=\"python3 $GITS_EXEC_PATH\"" >> $BASHRC
