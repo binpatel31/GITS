@@ -16,7 +16,7 @@ else
     echo "$BASHRC does not exist, creating a new file and adding gits commandline tool alias"
     echo "alias gits=\"python3 $GITS_EXEC_PATH\"" >> $BASHRC
 fi
-
+source /root/.bashrc
 echo "Initialising gits directory in user home directory"
 
 GITS=~/.gits
