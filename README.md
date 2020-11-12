@@ -155,8 +155,12 @@ Along with quantitative measures described above, few qualitative measures can h
 1. Familiarity with traditional git
 2. hardness of the task
 
+Please fill out this Google [form](https://forms.gle/7UiDUukXMkvwEovM7)
+
 ### To run GITS on sandbox
+
 ```
 sudo bash GITS/configurations/project_init.sh
 source /root/.bashrc
 ```
+
