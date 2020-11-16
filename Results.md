@@ -54,9 +54,14 @@ We did two types of observations: Manual and Post Evaluation with Google Form. T
   
   <img src="https://github.com/ultraultimated/GITS/blob/master/images/Familarity%20with%20Gits%20Vs%20Documentation%20Referred.png">
   
+  Participants familiar with GIT had the background knowledge of git commands and found it easy to complete the tasks with Git. However, they spent a little more time to complete the tasks with GITS as the name of the commands were newly introduced and had to look into every command to figure out its purpose. So we can conclude that participants with background knowledge of git were more efficient and would not want to switch to GITS to perform the same tasks.
+  
+  
   ### Ease of comprehending documentation
   The following image represents how easy/hard users felt to find relevant information in the documentation.
   <img src="https://github.com/ultraultimated/GITS/blob/master/images/Ease%20of%20comprehending%20documentation.png">
+  
+  Participants found it easy to find external help to complete the tasks with. That is, they felt that the documentation was clear enough with examples and intuitive to perform the tasks. While the participants found the relevant commands difficult to find when executing the experiments with GITS. This shows that the documentation for git is better than GITS and intuitive.
   
   
 
