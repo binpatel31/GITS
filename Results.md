@@ -26,9 +26,16 @@ We did two types of observations: Manual and Post Evaluation with Google Form. T
   ### No of times Documentation was Referred
   The following image represents the no of time the document was referred by 10 participants to perform each task.
 
-  <p align="center">
-    <img src="https://github.com/ultraultimated/GITS/blob/master/images/TASKS_documentation_referred.PNG">
-  </p>
+  <table style="width:100%">
+  <tr>
+    <td><img src="https://github.com/ultraultimated/GITS/blob/master/images/TASK 1 doc.png"></td>
+    <td><img src="https://github.com/ultraultimated/GITS/blob/master/images/TASK 2 doc.png"></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/ultraultimated/GITS/blob/master/images/TASK 3 doc.png"></td>
+    <td><img src="https://github.com/ultraultimated/GITS/blob/master/images/TASK 4 doc.png"></td>
+  </tr>
+</table>
   
   
   ## Post Evaluation
