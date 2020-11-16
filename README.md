@@ -114,12 +114,14 @@ However, to remove any unwanted bias here as well, divide the participants in tw
 Ask each participants to setup the gits inside their local machine before starting the study using steps shown above.
 
 ### Tasks list
+
 Here is basic draft of the tasks that covers almost each enhancement. 
 Feel free to edit this list as per your convenience. Add few tasks if you got more time for the experiment.
-
+### Task 1
 - Create a test repository that can be used by participants to complete their tasks.
 - Ask participant to clone the repository on their local machine.
 - Ask participant to set their git profile name and email to "dummy_name" and "dummy@name.com" respectively. Once they are done, ask them to switch it back to the original ones.
+### Task 2
 - Create two branches with name: branch1 and branch2.
 - list all the branches.
 - From current branch, switch to the branch1.
@@ -133,9 +135,11 @@ Feel free to edit this list as per your convenience. Add few tasks if you got mo
 - Also remove those changes from working directory.
 - commit these changes with appropriate commit message and switch to the main branch.
 - merge changes from the branch1 into this main branch and push those changes to the remote main branch.
+### Task 3
 - Now switch to branch2.
 - Main branch has changed since we created this branch so this branch is working behind in changes. Make this branch up to date with local main branch.
 - You just got to know that some other developer merged his changes to the remote main branch. Since you have checked out from the main branch, you also want those changes in development branch. So, make your branch up to date with remote main branch.
+### Task 4
 - Now switch to main branch again.
 - create new file "temp.txt" and write some text in it and commit those changes.
 - You just realized you directly made changes to the main branch rather than your development branch by mistake. Undo those changes by making current main branch same as remote main branch.
