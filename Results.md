@@ -22,6 +22,11 @@ We did two types of observations: Manual and Post Evaluation with Google Form. T
   <img src="https://github.com/ultraultimated/GITS/blob/master/images/Task%20vs%20Time.PNG">
 </p>
 
+  #### Analysis
+  * For Task 1, we found that GITS takes less time as compared to git as it requires less number of commands to perform that specific task.
+  * For Task 2, as many participants are more familiar with GIT, it took less time to perform entire task. Similar trend can be observed in the analysis for # of times documentation referred for GITS in Task 2 where participants took more time to understand the commands and it's examples.
+  * For Task 3, we see that two participants took less time to perform task as they are expert in GIT. The same thing is reflected in the post evaluation form for those two participants.
+  * For Task 4, it is similar to what we observed for task 2. It took them more time to refer new commands which were introduced in GITS.
   
   ### No of times Documentation was Referred
   The following image represents the no of time the document was referred by 10 participants to perform each task.
@@ -37,6 +42,8 @@ We did two types of observations: Manual and Post Evaluation with Google Form. T
   </tr>
 </table>
   
+  #### Analysis
+  * For Task 2,3 and 4 we can see that the number of times documentation referred in GITS is more as compared to GIT. Since participants are very familiar to GIT, they are aware of most commands and thus they don't need to refer the documentation much.   
   
   ## Post Evaluation
   We had two metrics to determine how easy it was for the participants to complete the tasks. The two metrics are Familarity with Git vs Documentation Referred and Ease of comprehending documentation.
