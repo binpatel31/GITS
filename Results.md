@@ -42,7 +42,9 @@ We did two types of observations: Manual and Post Evaluation with Google Form. T
   We had two metrics to determine how easy it was for the participants to complete the tasks. The two metrics are Familarity with Git vs Documentation Referred and Ease of comprehending documentation.
   
   ### Familarity with Git vs Documentation Referred
-  The following image represents the familarity with GIT on X-axis while the Y-axis represents the number of times documentation was referred for GIT and GITS.
+  The following image represents the familarity with GIT on X-axis while the Y-axis represents the number of times documentation was referred 
+  for GIT and GITS.
+  
   <img src="https://github.com/ultraultimated/GITS/blob/master/images/Familarity%20with%20Gits%20Vs%20Documentation%20Referred.png">
   
   ### Ease of comprehending documentation
