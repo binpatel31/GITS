@@ -54,5 +54,9 @@ We did two types of observations: Manual and Post Evaluation with Google Form. T
   
 
 # Conclusion
+* It was observed that overall the participants took less time in doing tasks in GIT as compared to GITS. The reason for this is because the participant is more familiar with GIT and have first hand experience in GIT.
+* Participants took less time for task 1 because, Git required two commands to perform a task which could be done in 1 command in GITS.
+* 
 # Threats to Validity
  * Since all the participants had a good knowledge of Git, as they have been using it for quite a long time now, time for performing with GITS and traditional GIT may differ for a person who is unfamiliar with any of these tools.
+ * The data is collected only of 10 particpants which may not be enough to draw strong conclusions.
